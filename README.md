@@ -82,3 +82,7 @@ python ./code/Kmeans.py --centroids_input ./test_dataset/Centroid.txt --centroid
 ```
 python ./code/NaiveBayes.py -r hadoop --continuous_features 0,2,4,10,11,12 ./test_dataset/adult.data.csv > model.json
 ```
+
+## License
+
+This project is MIT licensed, as found in the LICENSE file.
